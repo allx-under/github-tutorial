@@ -3,6 +3,13 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
+.vscode
+.idea
+.DS_Store
+node_modules
+.env
+build/
+*.psd
 
 # Other files and folders
 .settings/
